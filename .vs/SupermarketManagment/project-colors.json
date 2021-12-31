@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "def82a70-b217-4ab5-aeb7-aae515b45e73": {
+      "ProjectGuid": "def82a70-b217-4ab5-aeb7-aae515b45e73",
+      "DisplayName": "WebApp",
+      "ColorIndex": 0
+    },
+    "62f38ae4-1058-48f3-a031-1bc6b27a057e": {
+      "ProjectGuid": "62f38ae4-1058-48f3-a031-1bc6b27a057e",
+      "DisplayName": "UseCases",
+      "ColorIndex": 1
+    },
+    "35b9e0aa-552a-46b1-aeb3-65c6eeb15936": {
+      "ProjectGuid": "35b9e0aa-552a-46b1-aeb3-65c6eeb15936",
+      "DisplayName": "CoreBusiness",
+      "ColorIndex": 2
+    },
+    "d8842634-d3c4-4d09-9807-8a8055d5bdb1": {
+      "ProjectGuid": "d8842634-d3c4-4d09-9807-8a8055d5bdb1",
+      "DisplayName": "Plugins.DataStore.InMemory",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
